@@ -18,7 +18,6 @@ I’m Palash Ranka, a 2nd-year B.Tech CSE student and aspiring Full Stack Develo
 
 <h3>📊 GITHUB STATS</h3>
 
-![](https://github-readme-stats.shion.dev/api?username=palashranka&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=palashranka&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=palashranka&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
